@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy
+h5py
+pandas
+opencv-python-headless
+scikit-image
+matplotlib
+arm-pyart
+basemap
+sv-ttk
+cmweather
+cmasher
+cmocean

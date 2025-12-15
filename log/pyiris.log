@@ -1,0 +1,424 @@
+[2025-12-15 18:23:59] : starting converting HLM251202091814.RAWS4PR
+[2025-12-15 18:23:59] : interpolation enable
+[2025-12-15 18:23:59] : rpm mod enable
+[2025-12-15 18:23:59] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:23:59] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:23:59] : standard filter enable
+[2025-12-15 18:23:59] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:24:03] : SDZ filter applied to []
+[2025-12-15 18:24:03] : MDZ filter applied to []
+[2025-12-15 18:24:03] : LOG filter applied to []
+[2025-12-15 18:24:03] : SNR filter applied to []
+[2025-12-15 18:24:03] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:24:03] : SQI filter applied to []
+[2025-12-15 18:24:03] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:24:03] : speckle filter disable
+[2025-12-15 18:24:03] : ecorrection enable
+[2025-12-15 18:24:03] : DBZE found in ->3
+[2025-12-15 18:24:03] : DBTE found in ->1
+[2025-12-15 18:24:03] : econvert disable
+[2025-12-15 18:24:03] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:24:05] : finished converting input/HLM251202091814.RAWS4PR
+[2025-12-15 18:24:05] : saving file hdf5 to output/HLM251202091814.RAWS4PR.h5
+[2025-12-15 18:24:05] : starting converting HLM251202091843.RAWS4PM
+[2025-12-15 18:24:05] : interpolation enable
+[2025-12-15 18:24:05] : rpm mod enable
+[2025-12-15 18:24:05] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:24:05] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:24:05] : standard filter enable
+[2025-12-15 18:24:05] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:24:10] : SDZ filter applied to []
+[2025-12-15 18:24:10] : MDZ filter applied to []
+[2025-12-15 18:24:10] : LOG filter applied to []
+[2025-12-15 18:24:10] : SNR filter applied to []
+[2025-12-15 18:24:10] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:24:10] : SQI filter applied to []
+[2025-12-15 18:24:10] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:24:10] : speckle filter disable
+[2025-12-15 18:24:10] : ecorrection enable
+[2025-12-15 18:24:10] : DBZE found in ->3
+[2025-12-15 18:24:10] : DBTE found in ->1
+[2025-12-15 18:24:11] : econvert disable
+[2025-12-15 18:24:11] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:24:13] : finished converting input/HLM251202091843.RAWS4PM
+[2025-12-15 18:24:13] : saving file hdf5 to output/HLM251202091843.RAWS4PM.h5
+[2025-12-15 18:24:13] : starting converting HLM251202091752.RAWS4PN
+[2025-12-15 18:24:13] : interpolation enable
+[2025-12-15 18:24:13] : rpm mod enable
+[2025-12-15 18:24:13] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:24:13] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:24:13] : standard filter enable
+[2025-12-15 18:24:13] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:24:18] : SDZ filter applied to []
+[2025-12-15 18:24:18] : MDZ filter applied to []
+[2025-12-15 18:24:18] : LOG filter applied to []
+[2025-12-15 18:24:18] : SNR filter applied to []
+[2025-12-15 18:24:18] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:24:18] : SQI filter applied to []
+[2025-12-15 18:24:18] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:24:18] : speckle filter disable
+[2025-12-15 18:24:18] : ecorrection enable
+[2025-12-15 18:24:18] : DBZE found in ->3
+[2025-12-15 18:24:18] : DBTE found in ->1
+[2025-12-15 18:24:18] : econvert disable
+[2025-12-15 18:24:18] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:24:21] : finished converting input/HLM251202091752.RAWS4PN
+[2025-12-15 18:24:21] : saving file hdf5 to output/HLM251202091752.RAWS4PN.h5
+[2025-12-15 18:24:21] : starting converting HLM251202091914.RAWS4PP
+[2025-12-15 18:24:21] : interpolation enable
+[2025-12-15 18:24:21] : rpm mod enable
+[2025-12-15 18:24:21] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:24:21] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:24:21] : standard filter enable
+[2025-12-15 18:24:21] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:24:37] : SDZ filter applied to []
+[2025-12-15 18:24:37] : MDZ filter applied to []
+[2025-12-15 18:24:37] : LOG filter applied to []
+[2025-12-15 18:24:37] : SNR filter applied to []
+[2025-12-15 18:24:37] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:24:37] : SQI filter applied to []
+[2025-12-15 18:24:37] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:24:37] : speckle filter disable
+[2025-12-15 18:24:37] : ecorrection enable
+[2025-12-15 18:24:37] : DBZE found in ->3
+[2025-12-15 18:24:37] : DBTE found in ->1
+[2025-12-15 18:24:37] : econvert disable
+[2025-12-15 18:24:37] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:24:40] : finished converting input/HLM251202091914.RAWS4PP
+[2025-12-15 18:24:40] : saving file hdf5 to output/HLM251202091914.RAWS4PP.h5
+[2025-12-15 18:29:39] : starting converting HLM251202091814.RAWS4PR
+[2025-12-15 18:29:39] : interpolation enable
+[2025-12-15 18:29:39] : rpm mod enable
+[2025-12-15 18:29:39] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:29:39] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:29:39] : standard filter enable
+[2025-12-15 18:29:39] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:29:42] : SDZ filter applied to []
+[2025-12-15 18:29:42] : MDZ filter applied to []
+[2025-12-15 18:29:42] : LOG filter applied to []
+[2025-12-15 18:29:42] : SNR filter applied to []
+[2025-12-15 18:29:42] : error Traceback (most recent call last):
+  File "/home/tbr-obs/Documents/Nanda/vaisala_pyiris/pyiris_refactor_full/pyiris/converter.py", line 371, in process_one_file
+    snlgwt = 10 * log10(10 ** (snlgw / 10) - 1)
+                               ^^^^^
+NameError: name 'snlgw' is not defined. Did you mean: 'snlgz'?
+
+
+
+[2025-12-15 18:29:42] : starting converting HLM251202091843.RAWS4PM
+[2025-12-15 18:29:42] : interpolation enable
+[2025-12-15 18:29:43] : rpm mod enable
+[2025-12-15 18:29:43] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:29:43] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:29:43] : standard filter enable
+[2025-12-15 18:29:43] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:29:48] : SDZ filter applied to []
+[2025-12-15 18:29:48] : MDZ filter applied to []
+[2025-12-15 18:29:48] : LOG filter applied to []
+[2025-12-15 18:29:48] : SNR filter applied to []
+[2025-12-15 18:29:48] : error Traceback (most recent call last):
+  File "/home/tbr-obs/Documents/Nanda/vaisala_pyiris/pyiris_refactor_full/pyiris/converter.py", line 371, in process_one_file
+    snlgwt = 10 * log10(10 ** (snlgw / 10) - 1)
+                               ^^^^^
+NameError: name 'snlgw' is not defined. Did you mean: 'snlgz'?
+
+
+
+[2025-12-15 18:29:48] : starting converting HLM251202091752.RAWS4PN
+[2025-12-15 18:29:48] : interpolation enable
+[2025-12-15 18:29:48] : rpm mod enable
+[2025-12-15 18:29:48] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:29:48] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:29:48] : standard filter enable
+[2025-12-15 18:29:48] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:29:54] : SDZ filter applied to []
+[2025-12-15 18:29:54] : MDZ filter applied to []
+[2025-12-15 18:29:54] : LOG filter applied to []
+[2025-12-15 18:29:54] : SNR filter applied to []
+[2025-12-15 18:29:54] : error Traceback (most recent call last):
+  File "/home/tbr-obs/Documents/Nanda/vaisala_pyiris/pyiris_refactor_full/pyiris/converter.py", line 371, in process_one_file
+    snlgwt = 10 * log10(10 ** (snlgw / 10) - 1)
+                               ^^^^^
+NameError: name 'snlgw' is not defined. Did you mean: 'snlgz'?
+
+
+
+[2025-12-15 18:29:54] : starting converting HLM251202091914.RAWS4PP
+[2025-12-15 18:29:54] : interpolation enable
+[2025-12-15 18:29:54] : rpm mod enable
+[2025-12-15 18:29:54] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:29:54] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:29:54] : standard filter enable
+[2025-12-15 18:29:54] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:30:10] : SDZ filter applied to []
+[2025-12-15 18:30:10] : MDZ filter applied to []
+[2025-12-15 18:30:10] : LOG filter applied to []
+[2025-12-15 18:30:10] : SNR filter applied to []
+[2025-12-15 18:30:10] : error Traceback (most recent call last):
+  File "/home/tbr-obs/Documents/Nanda/vaisala_pyiris/pyiris_refactor_full/pyiris/converter.py", line 371, in process_one_file
+    snlgwt = 10 * log10(10 ** (snlgw / 10) - 1)
+                               ^^^^^
+NameError: name 'snlgw' is not defined. Did you mean: 'snlgz'?
+
+
+
+[2025-12-15 18:31:57] : starting converting HLM251202091814.RAWS4PR
+[2025-12-15 18:31:57] : interpolation enable
+[2025-12-15 18:31:57] : rpm mod enable
+[2025-12-15 18:31:57] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:31:57] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:31:57] : standard filter enable
+[2025-12-15 18:31:57] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:32:01] : SDZ filter applied to []
+[2025-12-15 18:32:01] : MDZ filter applied to []
+[2025-12-15 18:32:01] : LOG filter applied to []
+[2025-12-15 18:32:01] : SNR filter applied to []
+[2025-12-15 18:32:01] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:32:01] : SQI filter applied to []
+[2025-12-15 18:32:01] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:32:01] : speckle filter disable
+[2025-12-15 18:32:01] : ecorrection enable
+[2025-12-15 18:32:01] : DBZE found in ->3
+[2025-12-15 18:32:01] : DBTE found in ->1
+[2025-12-15 18:32:01] : econvert disable
+[2025-12-15 18:32:01] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:32:03] : finished converting input/HLM251202091814.RAWS4PR
+[2025-12-15 18:32:03] : saving file hdf5 to output/HLM251202091814.RAWS4PR.h5
+[2025-12-15 18:32:03] : starting converting HLM251202091843.RAWS4PM
+[2025-12-15 18:32:03] : interpolation enable
+[2025-12-15 18:32:03] : rpm mod enable
+[2025-12-15 18:32:03] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:32:03] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:32:03] : standard filter enable
+[2025-12-15 18:32:03] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:32:09] : SDZ filter applied to []
+[2025-12-15 18:32:09] : MDZ filter applied to []
+[2025-12-15 18:32:09] : LOG filter applied to []
+[2025-12-15 18:32:09] : SNR filter applied to []
+[2025-12-15 18:32:09] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:32:09] : SQI filter applied to []
+[2025-12-15 18:32:09] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:32:09] : speckle filter disable
+[2025-12-15 18:32:09] : ecorrection enable
+[2025-12-15 18:32:09] : DBZE found in ->3
+[2025-12-15 18:32:09] : DBTE found in ->1
+[2025-12-15 18:32:09] : econvert disable
+[2025-12-15 18:32:09] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:32:11] : finished converting input/HLM251202091843.RAWS4PM
+[2025-12-15 18:32:11] : saving file hdf5 to output/HLM251202091843.RAWS4PM.h5
+[2025-12-15 18:32:11] : starting converting HLM251202091752.RAWS4PN
+[2025-12-15 18:32:11] : interpolation enable
+[2025-12-15 18:32:11] : rpm mod enable
+[2025-12-15 18:32:11] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:32:11] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:32:11] : standard filter enable
+[2025-12-15 18:32:11] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:32:17] : SDZ filter applied to []
+[2025-12-15 18:32:17] : MDZ filter applied to []
+[2025-12-15 18:32:17] : LOG filter applied to []
+[2025-12-15 18:32:17] : SNR filter applied to []
+[2025-12-15 18:32:17] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:32:17] : SQI filter applied to []
+[2025-12-15 18:32:17] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:32:17] : speckle filter disable
+[2025-12-15 18:32:17] : ecorrection enable
+[2025-12-15 18:32:17] : DBZE found in ->3
+[2025-12-15 18:32:17] : DBTE found in ->1
+[2025-12-15 18:32:17] : econvert disable
+[2025-12-15 18:32:17] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:32:20] : finished converting input/HLM251202091752.RAWS4PN
+[2025-12-15 18:32:20] : saving file hdf5 to output/HLM251202091752.RAWS4PN.h5
+[2025-12-15 18:32:20] : starting converting HLM251202091914.RAWS4PP
+[2025-12-15 18:32:20] : interpolation enable
+[2025-12-15 18:32:20] : rpm mod enable
+[2025-12-15 18:32:20] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:32:20] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:32:20] : standard filter enable
+[2025-12-15 18:32:20] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:32:37] : SDZ filter applied to []
+[2025-12-15 18:32:37] : MDZ filter applied to []
+[2025-12-15 18:32:37] : LOG filter applied to []
+[2025-12-15 18:32:37] : SNR filter applied to []
+[2025-12-15 18:32:37] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:32:37] : SQI filter applied to []
+[2025-12-15 18:32:37] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:32:37] : speckle filter disable
+[2025-12-15 18:32:37] : ecorrection enable
+[2025-12-15 18:32:37] : DBZE found in ->3
+[2025-12-15 18:32:37] : DBTE found in ->1
+[2025-12-15 18:32:37] : econvert disable
+[2025-12-15 18:32:37] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:32:40] : finished converting input/HLM251202091914.RAWS4PP
+[2025-12-15 18:32:40] : saving file hdf5 to output/HLM251202091914.RAWS4PP.h5
+[2025-12-15 18:32:58] : starting converting HLM251202091814.RAWS4PR
+[2025-12-15 18:32:58] : interpolation enable
+[2025-12-15 18:32:58] : rpm mod enable
+[2025-12-15 18:32:58] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:32:58] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:32:58] : standard filter enable
+[2025-12-15 18:32:58] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:33:02] : SDZ filter applied to []
+[2025-12-15 18:33:02] : MDZ filter applied to []
+[2025-12-15 18:33:02] : LOG filter applied to []
+[2025-12-15 18:33:02] : SNR filter applied to []
+[2025-12-15 18:33:02] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:33:02] : SQI filter applied to []
+[2025-12-15 18:33:02] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:33:02] : speckle ['median'] filter enable
+[2025-12-15 18:33:02] : ecorrection enable
+[2025-12-15 18:33:02] : DBZE found in ->3
+[2025-12-15 18:33:02] : DBTE found in ->1
+[2025-12-15 18:33:02] : econvert enable, V choosed
+[2025-12-15 18:33:02] : ecomposite enable
+[2025-12-15 18:33:02] : DBZ and DBZE found in ->[2 3]
+[2025-12-15 18:33:02] : DBT and DBTE found in ->[0 1]
+[2025-12-15 18:33:02] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:33:04] : finished converting input/HLM251202091814.RAWS4PR
+[2025-12-15 18:33:04] : saving file hdf5 to output/HLM251202091814.RAWS4PR.h5
+[2025-12-15 18:33:04] : starting converting HLM251202091843.RAWS4PM
+[2025-12-15 18:33:04] : interpolation enable
+[2025-12-15 18:33:04] : rpm mod enable
+[2025-12-15 18:33:04] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:33:04] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:33:04] : standard filter enable
+[2025-12-15 18:33:04] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:33:10] : SDZ filter applied to []
+[2025-12-15 18:33:10] : MDZ filter applied to []
+[2025-12-15 18:33:10] : LOG filter applied to []
+[2025-12-15 18:33:10] : SNR filter applied to []
+[2025-12-15 18:33:10] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:33:10] : SQI filter applied to []
+[2025-12-15 18:33:10] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:33:10] : speckle ['median'] filter enable
+[2025-12-15 18:33:10] : ecorrection enable
+[2025-12-15 18:33:10] : DBZE found in ->3
+[2025-12-15 18:33:10] : DBTE found in ->1
+[2025-12-15 18:33:10] : econvert enable, V choosed
+[2025-12-15 18:33:10] : ecomposite enable
+[2025-12-15 18:33:10] : DBZ and DBZE found in ->[2 3]
+[2025-12-15 18:33:10] : DBT and DBTE found in ->[0 1]
+[2025-12-15 18:33:10] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:33:12] : finished converting input/HLM251202091843.RAWS4PM
+[2025-12-15 18:33:12] : saving file hdf5 to output/HLM251202091843.RAWS4PM.h5
+[2025-12-15 18:33:12] : starting converting HLM251202091752.RAWS4PN
+[2025-12-15 18:33:12] : interpolation enable
+[2025-12-15 18:33:12] : rpm mod enable
+[2025-12-15 18:33:12] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:33:12] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:33:12] : standard filter enable
+[2025-12-15 18:33:12] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:33:18] : SDZ filter applied to []
+[2025-12-15 18:33:18] : MDZ filter applied to []
+[2025-12-15 18:33:18] : LOG filter applied to []
+[2025-12-15 18:33:18] : SNR filter applied to []
+[2025-12-15 18:33:18] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:33:18] : SQI filter applied to []
+[2025-12-15 18:33:18] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:33:18] : speckle ['median'] filter enable
+[2025-12-15 18:33:18] : ecorrection enable
+[2025-12-15 18:33:18] : DBZE found in ->3
+[2025-12-15 18:33:18] : DBTE found in ->1
+[2025-12-15 18:33:18] : econvert enable, V choosed
+[2025-12-15 18:33:18] : ecomposite enable
+[2025-12-15 18:33:18] : DBZ and DBZE found in ->[2 3]
+[2025-12-15 18:33:18] : DBT and DBTE found in ->[0 1]
+[2025-12-15 18:33:18] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:33:20] : finished converting input/HLM251202091752.RAWS4PN
+[2025-12-15 18:33:20] : saving file hdf5 to output/HLM251202091752.RAWS4PN.h5
+[2025-12-15 18:33:20] : starting converting HLM251202091914.RAWS4PP
+[2025-12-15 18:33:20] : interpolation enable
+[2025-12-15 18:33:20] : rpm mod enable
+[2025-12-15 18:33:20] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:33:20] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:33:20] : standard filter enable
+[2025-12-15 18:33:20] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:33:37] : SDZ filter applied to []
+[2025-12-15 18:33:37] : MDZ filter applied to []
+[2025-12-15 18:33:37] : LOG filter applied to []
+[2025-12-15 18:33:37] : SNR filter applied to []
+[2025-12-15 18:33:37] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:33:37] : SQI filter applied to []
+[2025-12-15 18:33:37] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:33:37] : speckle ['median'] filter enable
+[2025-12-15 18:33:37] : ecorrection enable
+[2025-12-15 18:33:37] : DBZE found in ->3
+[2025-12-15 18:33:37] : DBTE found in ->1
+[2025-12-15 18:33:37] : econvert enable, V choosed
+[2025-12-15 18:33:37] : ecomposite enable
+[2025-12-15 18:33:37] : DBZ and DBZE found in ->[2 3]
+[2025-12-15 18:33:37] : DBT and DBTE found in ->[0 1]
+[2025-12-15 18:33:37] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:33:40] : finished converting input/HLM251202091914.RAWS4PP
+[2025-12-15 18:33:40] : saving file hdf5 to output/HLM251202091914.RAWS4PP.h5
+[2025-12-15 18:37:31] : starting converting HLM251202091843.RAWS4PM
+[2025-12-15 18:37:31] : interpolation enable
+[2025-12-15 18:37:31] : rpm mod enable
+[2025-12-15 18:37:31] : moment available -> ['DBT2' 'DBZ2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2' 'SQI2' 'PHIDP2'
+ 'HCLASS2' 'SNR16' 'DBTE16' 'DBZE16' 'LOG16']
+[2025-12-15 18:37:31] : moment selected  -> ['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'SQI2' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2'
+ 'RHOHV2' 'PHIDP2' 'HCLASS2' 'LOG16' 'SNR16']
+[2025-12-15 18:37:31] : standard filter enable
+[2025-12-15 18:37:31] : SDPHI filter applied to ['DBZ2', 'DBZE16']
+[2025-12-15 18:37:36] : SDZ filter applied to []
+[2025-12-15 18:37:36] : MDZ filter applied to []
+[2025-12-15 18:37:36] : LOG filter applied to []
+[2025-12-15 18:37:36] : SNR filter applied to []
+[2025-12-15 18:37:36] : CSR filter skipped to [] , CSR data unvailable
+[2025-12-15 18:37:36] : SQI filter applied to []
+[2025-12-15 18:37:36] : PMI filter skipped to [] , PMI data unvailable
+[2025-12-15 18:37:36] : speckle ['median'] filter enable
+[2025-12-15 18:37:36] : ecorrection enable
+[2025-12-15 18:37:36] : DBZE found in ->3
+[2025-12-15 18:37:36] : DBTE found in ->1
+[2025-12-15 18:37:36] : econvert enable, V choosed
+[2025-12-15 18:37:36] : ecomposite enable
+[2025-12-15 18:37:36] : DBZ and DBZE found in ->[2 3]
+[2025-12-15 18:37:36] : DBT and DBTE found in ->[0 1]
+[2025-12-15 18:37:36] : moment saved  ->['DBT2' 'DBTE16' 'DBZ2' 'DBZE16' 'VEL2' 'WIDTH2' 'ZDR2' 'KDP2' 'RHOHV2'
+ 'PHIDP2' 'HCLASS2' 'SNR16']
+[2025-12-15 18:37:38] : finished converting input/HLM251202091843.RAWS4PM
+[2025-12-15 18:37:38] : saving file hdf5 to output/HLM251202091843.RAWS4PM.h5
